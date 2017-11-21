@@ -1,6 +1,14 @@
-Bienvenue
+# Bienvenue
 
 Les crapauds fous sont un collectif de gens qui ont pris conscience de l’urgence et qui souhaitent agir ! 
+
+## Bienvenue à tous !
+Mot d’accueil (en construction) 
+
+## Présentation du guide
+Ce guide est en réalité à la fois un espace de documentation de l’aventure des crapauds fous et l’histoire du collectif. 
+
+Vous trouverez dans ce guide, en constante évolution, tout le contenus en complément du site internet [des crapauds fous](http://crapaud-fou.org). 
 
 ## Principes
 ### Sciences et action publique
