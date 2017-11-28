@@ -22,9 +22,9 @@ Pour faire crapaud fou, 3 conditions seulement :
 ### Est-ce que ça peut marcher ?
 *" Vouloir changer tout le monde, aujourd'hui, ça ne veut plus rien dire. Trop de situations, d'histoires vraies ou fausses, d'intérêts singuliers. Vouloir changer chacun, c'est nécessaire mais pas suffisant. Pour changer, faites la culture"* (Seth Godin).
 
-Pour cela, créer des cohortes - des groupes de gens qui veulent changer ensemble et les synchroniser intensément par la culture - puis tenter de faire boule de neige par le partage et les témoignages, de proche en proche.
+Pour cela, créer des *cohortes* : réunir des groupes de gens qui veulent changer ensemble, et les synchroniser intensément par la culture. Puis faire passer le message par le partage et les témoignages, de proche en proche. Et ainsi, peut-être, faire boule de neige.
 
-Est-ce que ça va marcher ? Comme tout ce qui repose sur un effet de masse, nul ne peut faire de prédiction.
+Est-ce que ça va marcher ? Comme pour tout ce qui repose sur un effet de masse, nul ne peut faire de prédiction.
 Ce qui est sûr, c'est que si on ne se met pas en posture d'agir, chacun à notre niveau, personne ne le fera à notre place.
 
 ### Vous souhaitez rejoindre le collectif ? 
