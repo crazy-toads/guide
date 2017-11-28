@@ -1,4 +1,5 @@
-﻿# guide
+﻿Le guide des crapauds fous
+=============================
 
 ## Pourquoi le Crapaud fou ? 
 Nous faisons face à non pas 1 mais 3 tsunamis qui menacent de balayer notre espèce (voir http://crapaud-fou.org pour les explications). 
@@ -29,6 +30,9 @@ Ce qui est sûr, c'est que si on ne se met pas en posture d'agir, chacun à notr
 
 ### Vous souhaitez rejoindre le collectif ? 
 Rien de plus simple, rendez-vous dans la [Mare Aux Crapauds](https://coa.crapaud-fou.org) en ligne (via notre plateforme de chat) et inscrivez-vous (cela prend 2 minutes).
+
+### Vous aussi vous avez des idées?
+Nous avons une plate-forme pour partager et échanger des idées, rejoignez-nous sur https://idees.crapaud-fou.org
 
 ### Vous souhaitez nous contacter ?
 Envoyer un message directement depuis la page [contact](http://crapaud-fou.org/contact/) du site.
