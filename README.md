@@ -19,7 +19,7 @@ Pour faire crapaud fou, 3 conditions seulement :
 3) S’engager à **faire une action positive** et la partager dans la mare. 
 
 ## FAQ
-### Est-ce ça peut marcher ?
+### Est-ce que ça peut marcher ?
 *" Vouloir changer tout le monde, aujourd'hui, ça ne veut plus rien dire. Trop de situations, d'histoires vraies ou fausses, d'intérêts singuliers. Vouloir changer chacun, c'est nécessaire mais pas suffisant. Pour changer, faites la culture"* (Seth Godin).
 
 Pour cela, créer des cohortes - des groupes de gens qui veulent changer ensemble et les synchroniser intensément par la culture - puis tenter de faire boule de neige par le partage et les témoignages, de proche en proche.
