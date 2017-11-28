@@ -1,11 +1,12 @@
-# Guide à destination de la communauté
+﻿# Guide à destination de la communauté
 ## Qui peut contribuer ?
-Tout le monde peut participer ! C’est ouvert à tous et vous êtes tous les bienvenues… 
+Tout le monde peut participer ! C’est ouvert à tous et vous êtes toutes et tous les bienvenus… 
 
 ## Comment contribuer ? 
 Le collectif a pour ambition de co-créer, co-produire des solutions pour demain face à l’urgence des enjeux environnementaux et sociaux.  
 
-> Penser l’avenir par l’action collective !
+> Penser l’avenir et l'influencer par l’action collective ! 
+> Passer du "Je" au "Nous" par le jeu, la collaboration, l'enthousiasme. Sans se prendre au sérieux, malgré l'importance des défis à relever.
 
 Afin de contribuer collectivement, nous vous invitons dans un premier temps à rejoindre le collectif :
 
@@ -13,7 +14,7 @@ Afin de contribuer collectivement, nous vous invitons dans un premier temps à r
 - Soit en ligne (Cf. Rubrique ci-dessous « Nous rejoindre en ligne pour discuter »)
 
 ## La Mare Aux Crapauds (en ligne)
-Aujourd’hui, deux outils principaux ont été mis en place : 
+Aujourd’hui, deux outils principaux ont été mis en place (tous libres évidemment) : 
 
 - Un chat de discussion (rocketchat)
 - Un outil de questions réponses (question2answer)
@@ -39,7 +40,7 @@ Certains salon de discussion sont dédiés au support de la communauté des crap
 
 
 ### Un espace de questions réponses (question2answer)
-Un espace de questions-réponses disponible sous ce [lien](https://idees.crapaud-fou.org/) pour proposer à la fois des idées mais aussi poser des questions dans chacun des 9 thèmes, mais aussi à propos du [collectif](https://idees.crapaud-fou.org/collectif-crapauds-fous) et un [FAQ](https://idees.crapaud-fou.org/faq) des questions variées reçues par la communauté. 
+Un espace de questions-réponses disponible sous ce [lien](https://idees.crapaud-fou.org/) pour proposer à la fois des idées, poser des questions dans chacun des 9 thèmes, et aussi à propos du [collectif](https://idees.crapaud-fou.org/collectif-crapauds-fous) et un [FAQ](https://idees.crapaud-fou.org/faq) des questions variées reçues par la communauté. 
 
 Chacun est libre de poser des questions, d’y répondre et de commenter aussi bien les questions que les réponses. Un système de vote (+1 / -1) permet de sélectionner les questions les plus pertinentes et les meilleures réponses lorsque plusieurs réponses sont apportées. 
 
