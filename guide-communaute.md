@@ -1,4 +1,6 @@
-﻿# Guide à destination de la communauté
+﻿Guide à destination de la communauté
+========================================
+
 ## Qui peut contribuer ?
 Tout le monde peut participer ! C’est ouvert à tous et vous êtes toutes et tous les bienvenus… 
 
