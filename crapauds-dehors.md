@@ -11,4 +11,4 @@ On parle des crapauds dans les médias…
 ## Articles
 [Usbek & Rica 15/11/17 Un article qui résume l'esprit et l'action des Crapauds](https://usbeketrica.com/article/comment-les-crapauds-fous-veulent-sauver-le-monde) 
 
-23/11/17 [Des Crapauds aux nains de jardin, le point de vue de l'exquise Anne-Sophie Novel](http://www.linfodurable.fr/culture/agir-pour-un-nouveau-monde-des-crapauds-fous-aux-nains-de-jardins-441)
+[Des Crapauds aux nains de jardin, le point de vue de l'exquise Anne-Sophie Novel 23/11/17](http://www.linfodurable.fr/culture/agir-pour-un-nouveau-monde-des-crapauds-fous-aux-nains-de-jardins-441)
