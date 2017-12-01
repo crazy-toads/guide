@@ -4,5 +4,7 @@
 * [Bienvenue](bienvenue.md)
 * [Guide de la communauté](guide-communaute.md)
 * [Compte-rendus des réunions](compte-rendus-des-reunions.md)
-	* [Réunion du 17.11.2017](cr_reunions/20171117reunion.md)
+  * [Réunion du 17.11.2017](cr_reunions/20171117reunion.md)
 * [On parle des crapauds](crapauds-dehors.md)
+* [Liens - Répertoire](liens-repertoire.md)
+
