@@ -1,13 +1,19 @@
-# Bienvenue
+Bienvenue
+============
 
 Les crapauds fous sont un collectif de gens qui ont pris conscience de l’urgence et qui souhaitent agir ! 
 
 ## Bienvenue à tous !
-Mot d’accueil (en construction) 
+Tout le monde peut nous rejoindre dans la mare, de là où il est. 
+Les défis à relever sont importants, et pourtant nous ne nous prenons pas au sérieux. Parce que nous croyons en le "Je" qui devient "Nous" par le jeu, la collaboration, l'enthousiasme.
+
+Pour nous rejoindre, 3 conditions seulement : 1) reconnaître l'urgence 2) embrasser la diversité 3) s'engager à faire une action positive, quelle qu'elle soit.
+Ensuite vous trouverez dans la mare d'autres batraciens qui comme vous ont envie de partager quelque chose qui les touche.
+
+Les outils, tous libres, sont là pour aider à faire émerger des espaces de partage, pour faire cohorte et, nous l'espérons contribuer au changement par la culture.
 
 ## Présentation du guide
-Ce guide est en réalité à la fois un espace de documentation de l’aventure des crapauds fous et l’histoire du collectif. 
-
+Ce guide est en réalité à la fois un espace de documentation de l’aventure des crapauds fous et l’histoire du collectif - pour le moment la cohorte des 34 qui a co-produit ce premier prototype de Manifeste.
 Vous trouverez dans ce guide, en constante évolution, tout le contenus en complément du site internet [des crapauds fous](http://crapaud-fou.org). 
 
 ## Principes
@@ -26,11 +32,8 @@ Avec l’IA, les robots, les nano, l’éthique a été galvaudée. Une surench�
 Alors, faut-il faire passer les valeurs avant tout et réussir tant bien que mal, ou chercher la réussite en premier lieu et devenir éthique ensuite ? Cela ne marche pas ainsi. En pratique, le game changer, ou le scientifique qui perce, est habité par son affaire, titillé par la curiosité ou prend un vrai plaisir à faire monter son mouvement en puissance. On commence par ce qui nous habite, avant de se poser la question de l’éthique.
 
 Intégrité ou éthique ? L’intégrité consiste à garder des exigences morales élevées même quand il est dur d’avancer et que l’on est tenté de tricher. L’intégrité relève de l’honnêteté . On continue à avancer dans l’obscurité (le chat noir de Darwin) guidé par sa flamme intérieure ou par un idéal.
-
 Dans un deuxième temps, lorsque l’on commence à voir la lumière, les promesses et les ombres apparaissent. C’est là qu’il faut ouvrir le cercle et inviter ceux qui seront impactés.
-
 L’intégrité se situe au niveau de l’individu, l’éthique au niveau du groupe. L’intégrité est dans la graine, c’est ce qui lui permet de percer, tandis que l’éthique est dans ce qui lui permet de se déployer. Si l’on n’est pas centré, aligné, et que l’on imite les autres, cela ne fonctionne pas.
-
 Pour résumer : d’abord, se laisser guider par ses passions, sa flamme intérieure. Ensuite, ne pas attendre le succès pour prendre l’engagement éthique. Sans intégrité, pas d’éthique. Et sans éthique, pas de sens.
 
 ### Crazy toading – faire crapaud fou
@@ -43,12 +46,12 @@ Pour la plupart de ceux que nous avons rencontrés, cette approche peut être é
 Nous préférons parler de « crazy toading ». Faire crapaud fou. Tout le monde l’a déjà fait, tout le monde peut le faire, à un moment de sa vie.
 
 ## Les 9 cercles thématiques 
-1.	Neuro-diversité, l’essence du crapaud fou.
-2.	Génération 2050 aux manettes.
-3.	L’Europe comme creuset du changement, qui pèse dans le débat mondial.
-4.	Le génie digital est sorti de sa bouteille. Quelle en sera la portée et le sens ?
-5.	Le collaboratif et le génie digital au service de l’intérêt général.
-6.	Diversité culturelle.
-7.	Game changers.
-8.	L’intelligence collaborative en action.
-9.	L’enthousiasme.
+1.  Neuro-diversité, l’essence du crapaud fou.
+2.  Génération 2050 aux manettes.
+3.  L’Europe comme creuset du changement, qui pèse dans le débat mondial.
+4.  Le génie digital est sorti de sa bouteille. Quelle en sera la portée et le sens ?
+5.  Le collaboratif et le génie digital au service de l’intérêt général.
+6.  Diversité culturelle.
+7.  Game changers.
+8.  L’intelligence collaborative en action.
+9.  L’enthousiasme.
