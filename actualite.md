@@ -1,3 +1,2 @@
-# Actualités des crapauds fous
-## XX.XX.XXXX
-
+Actualités des crapauds fous
+===============================

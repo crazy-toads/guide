@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-On parle des crapauds dans les médias…
-
-En construction
-=======
 On parle des crapauds dans les médias…
 
 ## Radio
@@ -17,4 +12,3 @@ On parle des crapauds dans les médias…
 [Usbek & Rica 15/11/17 Un article qui résume l'esprit et l'action des Crapauds](https://usbeketrica.com/article/comment-les-crapauds-fous-veulent-sauver-le-monde) 
 
 [Des Crapauds aux nains de jardin, le point de vue de l'exquise Anne-Sophie Novel 23/11/17](http://www.linfodurable.fr/culture/agir-pour-un-nouveau-monde-des-crapauds-fous-aux-nains-de-jardins-441)
->>>>>>> 7884ddde6f2f22dae56141672b71c8598af12213
