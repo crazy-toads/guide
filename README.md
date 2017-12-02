@@ -20,6 +20,7 @@ Pour faire crapaud fou, 3 conditions seulement :
 3) S’engager à **faire une action positive** et la partager dans la mare. 
 
 ## FAQ
+Les questions fréquentes sont aussi disponibles sur l’outil [q2a](https://idees.crapaud-fou.org/faq) qui vous permet de poser des questions directement à la communauté. 
 ### Est-ce que ça peut marcher ?
 *" Vouloir changer tout le monde, aujourd'hui, ça ne veut plus rien dire. Trop de situations, d'histoires vraies ou fausses, d'intérêts singuliers. Vouloir changer chacun, c'est nécessaire mais pas suffisant. Pour changer, faites la culture"* (Seth Godin).
 
