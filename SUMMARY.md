@@ -8,5 +8,5 @@
 * [Compte-rendus des réunions](reunions.md)
   * [Réunion du 17.11.2017](cr_reunions/20171117reunion.md)
 * [Revue de presse](presse.md)
-* [List de Liens](liens.md)
+* [Liste de Liens](liens.md)
 

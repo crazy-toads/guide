@@ -1,10 +1,10 @@
 # Listes des liens partagés
 
-Liste de liens utiles récupérés par Eric dans les discussions sur le chat de la communauté [https://coa.crapaud-fou.org](https://coa.crapaud-fou.org) et le q2a [https://idees.crapaud-fou.org](#) .
+Liste de liens utiles récupérés par Eric dans les discussions sur le chat de la communauté <https://coa.crapaud-fou.org> et le q2a <https://idees.crapaud-fou.org>.
 
 Période: jusqu'au 30/11/2017
 
-\(Contient aussi des références de livres lorsque cité par les Crapauds\)
+**Contient aussi des références de livres lorsque cité par les Crapauds**
 
 | LIEN | SUJET | source : Cercle actuel | Catégorie / Tag |
 | --- | --- | --- | --- |
