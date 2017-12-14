@@ -19,9 +19,6 @@ Dans la presse
 ----------------
 - [Comment les « crapauds fous » veulent sauver le  monde. InterviewThanh Nghiem](https://usbeketrica.com/article/comment-les-crapauds-fous-veulent-sauver-le-monde) (19 nov 2017)
 
-Outils
-----------
-
 
 Les cercles de reflexion
 -------------------------
