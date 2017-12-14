@@ -1,4 +1,5 @@
-# Listes des liens partagés
+Listes des liens partagés (simple)
+==================================
 
 Liste de liens utiles récupérés par Eric dans les discussions sur le chat de la communauté <https://coa.crapaud-fou.org> et le q2a <https://idees.crapaud-fou.org>.
 
