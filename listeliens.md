@@ -7,7 +7,7 @@ Période: jusqu'au 30/11/2017
 
 Collectif des crapauds
 ------------------------
-- [Code de conduite](https://www.contributor-covenant.org/fr/version/1/4/code-of-conduct.html) <span class=="t">gouvernance</span>  
+- [Code de conduite](https://www.contributor-covenant.org/fr/version/1/4/code-of-conduct.html) <span class="t">gouvernance</span>  
   [www.contributor-covenant.org](http://www.contributor-covenant.org) Code de conduite forum web
 - [Idées et Questions](https://idees.crapaud-fou.org)  
   L'endroit ou on fait parler son imagination et ou on collabore sur des solutions
