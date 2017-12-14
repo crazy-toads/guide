@@ -11,3 +11,10 @@
   color: #ffffff;
   font-weight: bold;
 }
+.tag {
+  font-size: .8em;
+  padding: 1px 3px;
+  background-color: #999999;
+  color: #ffffff;
+  font-weight: bold;
+}
