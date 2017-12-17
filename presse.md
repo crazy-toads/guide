@@ -1,6 +1,8 @@
 On parle des crapauds dans les médias…
 
-## Radio
+## Télé et Radio
+[Les Crapauds fous sur France 3 TV Provence 8/12/17](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/aix-en-provence/aix-provence-creatrice-crapauds-fous-bidouilleurs-du-lab-1383671.html) 
+
 [Les Crapauds fous sur RDWA 7/12/17](http://www.rdwa.fr/Thanh-Nghiem-et-les-crapauds-fous_a7659.html) 
 
 [France Info, Un monde d'action 15/11/17](http://media.radiofrance-podcast.net/podcast09/17927-15.11.2017-ITEMA_21495356-0.mp3)
