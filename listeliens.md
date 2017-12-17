@@ -7,7 +7,7 @@
 - l'espace de discussion https://coa.crapaud-fou.org
 - le forum à idées-feedback et questions-réponses https://idees.crapaud-fou.org
 - notre espace de construction collective, le guide du crapaud, càd ici :)  http://guide.crapaud-fou.org
-- 
+
 ## Domaines couverts
 _Cliquez sur le nom du domaine pour accéder aux liens et références disponibles_
 
