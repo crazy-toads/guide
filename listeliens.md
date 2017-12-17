@@ -46,7 +46,7 @@ _Cliquez sur le nom du domaine pour accéder aux liens et références disponibl
 - [La carte des barbares](https://www.google.com/maps/d/edit?mid=1I906EIqfwnOr5MObkIP8v9mucsU&ll=11.057356922656847%2C-7.830325300000027&z=3)  
   Les Barbares ont une carte de géolocalisation sur google, peut être une idée pour les crapauds?  
 - [uBlock Origins review](https://twit.tv/shows/security-now/episodes/523) <span class="tag">anglais</span>  
-  Revue de uBlock, un excellent outil pour surfer sans pubs intempestives
+  Revue de uBlock Origin, un excellent outil pour surfer sans pubs intempestives
 - [Two kinds of practice](http://sethgodin.typepad.com/seths_blog/2017/11/two-kinds-of-practice.html) <span class="tag">anglais</span>  
   Un excellent article qui fait écho à la méthode Crapaud si tant est qu'il y en a une 
 
