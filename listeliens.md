@@ -40,12 +40,16 @@ _Cliquez sur le nom du domaine pour accéder aux liens et références disponibl
 ### FAQ
 
 ### Outils et animation du collectif
-- Code de conduite de notre forum www.contributor-covenant.org
-- Une alternative à Skype https://framatalk.org/accueil
-- Les Barbares ont une carte de géolocalisation sur google, peut être une idée pour les crapauds?  https://www.google.com/maps/d/edit?mid=1I906EIqfwnOr5MObkIP8v9mucsU&ll=11.057356922656847%2C-7.830325300000027&z=3
-- Revue de uBlock, un excellent outil pour surfer sans pubs intempestives https://twit.tv/shows/security-now/episodes/523
-- Un excellent article qui fait écho à la méthode Crapaud si tant est qu'il y en a une http://sethgodin.typepad.com/seths_blog/2017/11/two-kinds-of-practice.html
-- 
+- [Code de conduite](https://www.contributor-covenant.org/fr/version/1/4/code-of-conduct.html)
+- [Framatalk](https://framatalk.org/accueil)  
+  Alternative à Skype 
+- [La carte des barbares](https://www.google.com/maps/d/edit?mid=1I906EIqfwnOr5MObkIP8v9mucsU&ll=11.057356922656847%2C-7.830325300000027&z=3)  
+  Les Barbares ont une carte de géolocalisation sur google, peut être une idée pour les crapauds?  
+- [uBlock Origins review](https://twit.tv/shows/security-now/episodes/523) <span class="tag">anglais</span>  
+  Revue de uBlock, un excellent outil pour surfer sans pubs intempestives
+- [Two kinds of practice](http://sethgodin.typepad.com/seths_blog/2017/11/two-kinds-of-practice.html) <span class="tag">anglais</span>  
+  Un excellent article qui fait écho à la méthode Crapaud si tant est qu'il y en a une 
+
 
 ### Cercle-collaboratif
 - Partager c'est sympa, la chaîne de Vincent Verzat un vidéaste activiste passionné, qui filme un avenir juste et durable pour tous. https://www.youtube.com/user/elfuegoo/videos
