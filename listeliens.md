@@ -15,10 +15,10 @@ _Cliquez sur le nom du domaine pour accéder aux liens et références disponibl
 - [FAQ](#FAQ)
 - [Outils et animation du collectif](#outils-et-animation-du-collectif)
 - [Cercle-collaboratif](#cercle-collaboratif)
-- [Cercle-diversité-culturelle](#cercle-diversite-culturelle)
-- [Cercle-démocratie](#Cercle-democratie)
-- Cercle-enthousiasme
-- Cercle-Europe
+- [Cercle-diversité-culturelle](#cercle-diversité-culturelle)
+- [Cercle-démocratie](#Cercle-démocratie)
+- [Cercle-enthousiasme](#Cercle-enthousiasme) 
+- [Cercle-Europe](#Cercle-Europe)
 - Cercle-game-changers
 - Cercle-génération-2050
 - [Cercle-génie-digital](#cercle-génie-digital) 
