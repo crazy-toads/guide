@@ -7,7 +7,7 @@
 - [Espace de discussion](https://coa.crapaud-fou.org)
 - [Forum à idées-feedback et questions-réponses](https://idees.crapaud-fou.org)
 - [Guide du crapaud](https://guide.crapaud-fou.org)  
-  notre espace de construction collective, le , càd ici :)
+  le présent guide, notre espace de construction collective
 
 ## Domaines couverts
 _Cliquez sur le nom du domaine pour accéder aux liens et références disponibles_
@@ -21,7 +21,7 @@ _Cliquez sur le nom du domaine pour accéder aux liens et références disponibl
 - Cercle-Europe
 - Cercle-game-changers
 - Cercle-génération-2050
-- Cercle-génie-digital
+- [Cercle-génie-digital](#cercle-génie-digital) 
 - Cercle-neurodiversité
 - Cercle-santé
 - Cercle-spiritualité
