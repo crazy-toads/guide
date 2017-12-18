@@ -12,13 +12,13 @@
 ## Domaines couverts
 _Cliquez sur le nom du domaine pour accéder aux liens et références disponibles_
 
-- [FAQ](#FAQ)
+- [FAQ](#faq)
 - [Outils et animation du collectif](#outils-et-animation-du-collectif)
 - [Cercle-collaboratif](#cercle-collaboratif)
 - [Cercle-diversité-culturelle](#cercle-diversité-culturelle)
 - [Cercle-démocratie](#cercle-démocratie)
 - [Cercle-enthousiasme](#cercle-enthousiasme) 
-- [Cercle-Europe](#Cercle-Europe)
+- [Cercle-Europe](#cercle-europe)
 - [Cercle-game-changers](#cercle-game-changers)
 - [Cercle-génération-2050](#cercle-génération-2050)
 - [Cercle-génie-digital](#cercle-génie-digital) 
@@ -94,22 +94,24 @@ _Cliquez sur le nom du domaine pour accéder aux liens et références disponibl
 - IA dans wikipedia, clair et concis https://fr.wikipedia.org/wiki/Intelligence_artificielle
 - IA par l'auteur de l'excellent blog Wait But Why  https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
 
-Cercle-neurodiversité
+### Cercle-neurodiversité
 - La neurodiversité vue par Lou Morgan. https://www.youtube.com/watch?v=dk_zJ6QwYQ8&app=desktop
 - Le "feed back neuronal", par exemple pour soigner des troubles d'hyperactivité. https://www.sciencesetavenir.fr/sante/cerveau-et-psy/trouble-de-l-attention-hyperactivite-une-etude-europeenne-evalue-le-neurofeedback_110745
-- 
+
 ### Cercle-santé
 
 ### Cercle-spiritualité
 - Le Dalai Lama rencontre des jeunes https://www.facebook.com/dalailamarevolution
-Cercle-consommation-nourriture
+
+### Cercle-consommation-nourriture
 
 ### Cohortes
 - Carrefour de l'innovation et du numérique - Aix : 274 m² où des idées et de nouveaux usages naissent, grandissent et se diffusent, grâce à la rencontre de publics venus de tous horizons, réunis autour d’une même volonté : innover. https://c-in.fr
 - 
 ### Cohorte-2607-Drôme-Ardèche
 - Fablab Drôme http://8fablab.fr/
-Media
+
+### Media
 - Radio: http://www.rdwa.fr/Thanh-Nghiem-et-les-crapauds-fous_a7659.html 
 - Une jolie contribution d'un crapaud fou : @bcassien http://lemondedusavoir.fr/2017/12/10/crapauds-fous-survie-de-lespece-passe-changement-de-comportement
 - @remi4435 à découvert les Crapauds Fous par un article (dont je n'ai pas le lien direct ...) dans un petit journal de Loire Atlantique http://journal-la-mee.fr 
