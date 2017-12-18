@@ -23,7 +23,7 @@ _Cliquez sur le nom du domaine pour accéder aux liens et références disponibl
 - [Cercle-génération-2050](#cercle-génération-2050)
 - [Cercle-génie-digital](#cercle-génie-digital) 
 - [Cercle-neurodiversité](#cercle-neurodiversité)
-- [Cercle-santé](cercle-santé)
+- [Cercle-santé](#cercle-santé)
 - [Cercle-spiritualité](#cercle-spiritualité)
 - [Cercle-consommation-nourriture](#cercle-consommation-nourriture)
 - [Cohortes](#cohortes)
@@ -59,7 +59,7 @@ _Cliquez sur le nom du domaine pour accéder aux liens et références disponibl
 - Intelligence collective et action. Le site de @Clo Clo 12:39 AM http://kaleidosphere.net/filmotheque-kaleidosphere
 - Exemples: Intelligence et gouvernance collectives: https://igipartners.com | https://www.colibris-lemouvement.org/projets/luniversite-colibris/mooc-gouvernance-partagee | http://universite-du-nous.org |     www.colibris-lemouvement.org
 - Association dans le pays de Crussol qui a pour objet de promouvoir la transition énergétique, écologique, sociale, solidaire, personnelle et collective http://yapluka07.org/
-- 
+
 
 ### Cercle-diversité-culturelle
 - Le tour du monde d'une crapaude http://pavtour.weebly.com  
@@ -107,7 +107,7 @@ _Cliquez sur le nom du domaine pour accéder aux liens et références disponibl
 
 ### Cohortes
 - Carrefour de l'innovation et du numérique - Aix : 274 m² où des idées et de nouveaux usages naissent, grandissent et se diffusent, grâce à la rencontre de publics venus de tous horizons, réunis autour d’une même volonté : innover. https://c-in.fr
-- 
+
 ### Cohorte-2607-Drôme-Ardèche
 - Fablab Drôme http://8fablab.fr/
 
