@@ -41,24 +41,32 @@ _Cliquez sur le nom du domaine pour accéder aux liens et références disponibl
 
 ### Outils et animation du collectif
 - [Code de conduite](https://www.contributor-covenant.org/fr/version/1/4/code-of-conduct.html)
+   relatif aux contributions sur les différents supports des Crapauds Fous 
 - [Framatalk](https://framatalk.org/accueil)  
   Alternative à Skype 
 - [La carte des barbares](https://www.google.com/maps/d/edit?mid=1I906EIqfwnOr5MObkIP8v9mucsU&ll=11.057356922656847%2C-7.830325300000027&z=3)  
-  Les Barbares ont une carte de géolocalisation sur google, peut être une idée pour les crapauds?  
-- [uBlock Origins review](https://twit.tv/shows/security-now/episodes/523) <span class="tag">anglais</span>  
+  Le groupe des Barbares a une carte de géolocalisation sur google, peut être une idée pour les Crapauds?  
+- [uBlock Origins review](https://twit.tv/shows/security-now/episodes/523) 
+  <span class="tag">anglais</span>  
   Revue de uBlock Origin, un excellent outil pour surfer sans pubs intempestives
 - [Two kinds of practice](http://sethgodin.typepad.com/seths_blog/2017/11/two-kinds-of-practice.html) <span class="tag">anglais</span>  
   Un excellent article qui fait écho à la méthode Crapaud si tant est qu'il y en a une 
 
 
 ### Cercle-collaboratif
-- Partager c'est sympa, la chaîne de Vincent Verzat un vidéaste activiste passionné, qui filme un avenir juste et durable pour tous. https://www.youtube.com/user/elfuegoo/videos
-- Musaïques l'association sociale et culturelle présidée par Cédric Villani    www.musaiques-asso.com
-- OuiShare is a non-profit and global community empowering citizens, public institutions and companies to build a society based on openness, collaboration and sharing. http://ouishare.net/en
-- HACKERS AGAINST NATURAL DISASTERS Gaël MUSQUET. Give us a HAND http://hand.team
-- Intelligence collective et action. Le site de @Clo Clo 12:39 AM http://kaleidosphere.net/filmotheque-kaleidosphere
-- Exemples: Intelligence et gouvernance collectives: https://igipartners.com | https://www.colibris-lemouvement.org/projets/luniversite-colibris/mooc-gouvernance-partagee | http://universite-du-nous.org |     www.colibris-lemouvement.org
-- Association dans le pays de Crussol qui a pour objet de promouvoir la transition énergétique, écologique, sociale, solidaire, personnelle et collective http://yapluka07.org/
+- [Partager c'est sympa](https://www.youtube.com/user/elfuegoo/videos) 
+, la chaîne de Vincent Verzat un vidéaste activiste passionné, qui filme un avenir juste et durable pour tous. 
+- [Musaïques](www.musaiques-asso.com) 
+ l'association sociale et culturelle présidée par Cédric Villani    
+- [OuiShare](http://ouishare.net/en) 
+ is a non-profit and global community empowering citizens, public institutions and companies to build a society based on openness, collaboration and sharing. 
+- [Hackers against Natural Disasters](http://hand.team) 
+ Gaël MUSQUET. 
+- [Kaleidosphere - Intelligence collective et action](http://kaleidosphere.net/filmotheque-kaleidosphere) 
+le site de @Clo. 
+- Exemples: Intelligence et gouvernance collectives: https://igipartners.com | https://www.colibris-lemouvement.org/projets/luniversite-colibris/mooc-gouvernance-partagee | http://universite-du-nous.org
+- [Yapluka07](http://yapluka07.org/) 
+Association dans le pays de Crussol qui a pour objet de promouvoir la transition énergétique, écologique, sociale, solidaire, personnelle et collective 
 
 
 ### Cercle-diversité-culturelle
