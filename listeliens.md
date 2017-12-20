@@ -8,7 +8,7 @@
 - [Forum à idées-feedback et questions-réponses](https://idees.crapaud-fou.org)
 - [Guide du crapaud](https://guide.crapaud-fou.org)  
   le présent guide, notre espace de construction collective
-
+ 
 ## Domaines couverts
 _Cliquez sur le nom du domaine pour accéder aux liens et références disponibles_
 
@@ -44,6 +44,7 @@ _Cliquez sur le nom du domaine pour accéder aux liens et références disponibl
    relatif aux contributions sur les différents supports des Crapauds Fous 
 - [Framatalk](https://framatalk.org/accueil)  
   Alternative à Skype 
+- [Deepl - outil de traduction](https://deepl.com/) 
 - [La carte des barbares](https://www.google.com/maps/d/edit?mid=1I906EIqfwnOr5MObkIP8v9mucsU&ll=11.057356922656847%2C-7.830325300000027&z=3)  
   Le groupe des Barbares a une carte de géolocalisation sur google, peut être une idée pour les Crapauds?  
 - [uBlock Origins review](https://twit.tv/shows/security-now/episodes/523) 
@@ -139,6 +140,42 @@ Si les data sont effectivement des outils efficaces pour nous aider à saisir le
 
 
 ### Fourre-tout
+- Comment les « crapauds fous » veulent sauver le  monde. InterviewThanh Nghiem 
+https://usbeketrica.com/article/comment-les-crapauds-fous-veulent-sauver-le-monde
+- Krishnamurti "révolution des consciences" (extraits Zeitgeist Addendum) https://m.youtube.com/watch?v=84vGAtWZyV4
+Olivier dF Open Innovation & recherche contre le cancer. La Pallaisse labo communautaire https://www.digitalforallnow.com/la-paillasse-laboratoire-communautaire-open-innovation-cancer
+Excellence in Holacracy Amélioration de gestion d’entreprise https://igipartners.com
+Enseignement de type open university relatif à la gouvernance partagée https://www.colibris-lemouvement.org/projets/luniversite-colibris/mooc-gouvernance-partagee
+Université du Nous: espace d’expérimentation, de transmission et d’accompagnement afin de construire, d’animer et d’accompagner des « Nous » actifs et engagés http://universite-du-nous.org
+Groupe de crapauds fous qui a pour but de faciliter les initiatives de transition en Drôme-Ardèche dans les domaines de la transition écologique, de la solidarité et citoyenneté, du numérique, etc https://www.loomio.org/g/mWnxpriY/crapauds-fous-07-26
+Le trinet https://usbeketrica.com/article/internet-est-mort-vive-le-trinet
+Soutenir les porteurs de projets de bien communMathias Lahiani https://onpassealacte.fr.	
+IA https://www.technologyreview.com/s/603366/mathematical-model-reveals-the-patterns-of-how-innovations-arise
+IA https://www.technologyreview.com/s/603366/mathematical-model-reveals-the-patterns-of-how-innovations-arise#GeneralGénie Digital
+Open source - Framasoft	#General	Outil
+Open source - hébergement alternatif de sites web	#General	Outil
+Open source: Mastodon: un Twitter meilleur?	#General	Outil
+Bitmark empowers universal digital ownership so we can live free online	#General	Génie Digital
+Vision d'artiste sur nos racines et notre futur	#General	Art
+https://idees.crapaud-fou.org	La boîte à idées et aux questions des Crapauds fous	#General	
+Laboratoire d'Aix-périmentation et de Bidouille – Bidouiller, Imaginer, Collaborer, Fabriquer, Partager	#General	Cercle CollaboratifProjet
+Jaron lanier - Who owns the future	Bouquin - Génie digital	#General	Génie digital
+Jean-Louis Truong - La bête inhumaine	Bouquin - Génie digital	#General	Génie digital
+IA Genetic Algorithm https://en.wikipedia.org/wiki/Genetic_algorithm	#General	Génie digital
+IA Transputer https://fr.wikipedia.org/wiki/Transputer 	#General	Génie digital
+IA Cryptography  https://en.wikipedia.org/wiki/Post-quantum_cryptography	#General	Génie digital
+IA dérapages sur Twitter https://www.lci.fr/high-tech/racisme-et-insultes-lintelligence-artificielle-de-microsoft-derape-sur-twitter-1506774.html	#General	Génie digital
+Génie digital - genetic service available directly to you https://www.23andme.com 	#General	Génie digital
+Endroits du monde avec la plus grande biodiversité	http://www.cnrs.fr/inee/recherche/fichiers/Biodiversite_hotspots.pdf  Collaboratif	Cercle Collaboratif
+Intelligence Collective	  http://mose.fr/collective_intelligence.pdf  Collaboratif	Cercle Collaboratif
+Q2A	Outil
+Evaluer la responsabilité et la transparence des systèmes algorithmiques https://www.inria.fr/actualite/actualites-inria/transalgo	Q2A	Génie digital
+Comment traquer des déviances algorithmiques https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing	Q2A	Génie digital
+Ethique numérique; les algorithmes en question https://hal.archives-ouvertes.fr/hal-01544701/	Q2A	Génie digital
+Self organizing neural network model http://www.cs.princeton.edu/courses/archive/spr08/cos598B/Readings/Fukushima1980.pdf	Q2A	Génie digital
+- Circuit court d'agriculture paysanne 	http://rezopaysans.rezolocal.com  
+- Association pour le maintien d'une agriculture de proximité (amap) à Beaumont-les-Valence (Drôme)http://rezopaysans.rezolocal.com/?go=monbeaujardin
+
 
 
 
