@@ -70,8 +70,9 @@ Association dans le pays de Crussol qui a pour objet de promouvoir la transition
 
 
 ### Cercle-diversité-culturelle
-- Le tour du monde d'une crapaude http://pavtour.weebly.com  
-- Data Gueule - Gouvernés par les nombres? Échecs et maths. Si les data sont effectivement des outils efficaces pour nous aider à saisir le fonctionnement d’un monde toujours plus complexe, leur utilisation est-elle adaptée à chacune des facettes du réel ? Nos États intègrent peu à peu une logique d’optimisation à tout prix, multipliant les similitudes avec le modèle des lois du marché. https://www.youtube.com/watch?v=3Xct2cLcsWY
+- Le [tour du monde](http://pavtour.weebly.com) d'une crapaude :)   
+- [Data Gueule - Gouvernés par les nombres?](https://www.youtube.com/watch?v=3Xct2cLcsWY)  
+Si les data sont effectivement des outils efficaces pour nous aider à saisir le fonctionnement d’un monde toujours plus complexe, leur utilisation est-elle adaptée à chacune des facettes du réel ? Nos États intègrent peu à peu une logique d’optimisation à tout prix, multipliant les similitudes avec le modèle des lois du marché. 
     
 
 ### Cercle-démocratie
@@ -114,18 +115,19 @@ Association dans le pays de Crussol qui a pour objet de promouvoir la transition
 ### Cercle-consommation-nourriture
 
 ### Cohortes
-- Carrefour de l'innovation et du numérique - Aix : 274 m² où des idées et de nouveaux usages naissent, grandissent et se diffusent, grâce à la rencontre de publics venus de tous horizons, réunis autour d’une même volonté : innover. https://c-in.fr
+- [Carrefour de l'innovation et du numérique - Aix](https://c-in.fr) 
+ : 274 m² où des idées et de nouveaux usages naissent, grandissent et se diffusent, grâce à la rencontre de publics venus de tous horizons, réunis autour d’une même volonté : innover. 
 
 ### Cohorte-2607-Drôme-Ardèche
 - Fablab Drôme http://8fablab.fr/
 
 ### Media
-- Radio: http://www.rdwa.fr/Thanh-Nghiem-et-les-crapauds-fous_a7659.html 
-- Une jolie contribution d'un crapaud fou : @bcassien http://lemondedusavoir.fr/2017/12/10/crapauds-fous-survie-de-lespece-passe-changement-de-comportement
-- @remi4435 à découvert les Crapauds Fous par un article (dont je n'ai pas le lien direct ...) dans un petit journal de Loire Atlantique http://journal-la-mee.fr 
-- Télé FR3 : https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/aix-en-provence/aix-provence-creatrice-crapauds-fous-bidouilleurs-du-lab-1383671.html
-- Télé FR3: le petit bijou que nous a concocté Ghislaine Milliet, une Crapaude de France 3 TV Provence. On est passé dans le Fablab de Crapaud fou @guy.sinnig à Aix. On insiste sur l'aspect social / empowerment / ouvert à tous.  https://www.youtube.com/watch?v=UimMFLQBfS0
-- 
+- Radio: [Thanh et les crapauds fous](http://www.rdwa.fr/Thanh-Nghiem-et-les-crapauds-fous_a7659.html)  
+- Une [jolie contribution](http://lemondedusavoir.fr/2017/12/10/crapauds-fous-survie-de-lespece-passe-changement-de-comportement) d'un crapaud fou : @bcassien 
+- @remi4435 à découvert les Crapauds Fous par un article (dont je n'ai pas le lien direct ...) dans un [petit journal de Loire Atlantique](http://journal-la-mee.fr)  
+- Télé FR3 : le petit bijou que nous a concocté Ghislaine Milliet, une Crapaude de France 3 TV Provence. On est passé dans le Fablab de Crapaud fou @guy.sinnig à Aix. On insiste sur l'aspect social / empowerment / ouvert à tous. Deux versions: [youtube](https://www.youtube.com/watch?v=UimMFLQBfS0) et [France3 Régions](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/aix-en-provence/aix-provence-creatrice-crapauds-fous-bidouilleurs-du-lab-1383671.html) 
+
+
 
 ### Contacts
 
@@ -134,7 +136,8 @@ Association dans le pays de Crussol qui a pour objet de promouvoir la transition
 ### International
 
 ### Fun
-Coaaaaa zyme... https://fr.wikipedia.org/wiki/Coenzyme_A
+[Coaaaaa zyme](https://fr.wikipedia.org/wiki/Coenzyme_A) ...
+
 
 ### Fourre-tout
 
