@@ -118,7 +118,7 @@ Si les data sont effectivement des outils efficaces pour nous aider à saisir le
  : 274 m² où des idées et de nouveaux usages naissent, grandissent et se diffusent, grâce à la rencontre de publics venus de tous horizons, réunis autour d’une même volonté : innover. 
 
 ### Cohorte-2607-Drôme-Ardèche
-- Fablab Drôme http://8fablab.fr/
+- Le [Fablab de la Drôme](http://8fablab.fr/) 
 
 ### Media
 - Radio: [Thanh et les crapauds fous](http://www.rdwa.fr/Thanh-Nghiem-et-les-crapauds-fous_a7659.html)  
@@ -135,7 +135,7 @@ Si les data sont effectivement des outils efficaces pour nous aider à saisir le
 ### International
 
 ### Fun
-[Coaaaaa zyme](https://fr.wikipedia.org/wiki/Coenzyme_A) ...
+[Coaaaaa-zyme](https://fr.wikipedia.org/wiki/Coenzyme_A) ...
 
 
 ### Fourre-tout
