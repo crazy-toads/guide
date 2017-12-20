@@ -86,31 +86,30 @@ Si les data sont effectivement des outils efficaces pour nous aider à saisir le
 ### Cercle-génération-2050
 
 ### Cercle-génie-digital
-- Les enjeux éthiques des algorithmes et de l'IA. La CNIL a rendu sa copie: https://www.cnil.fr/sites/default/files/atoms/files/cnil_rapport_garder_la_main_web.pdf
-- Excellente et incroyable démarche pédagogique de lecture des data. Un cursus au sujet des fake news ! http://callingbullshit.org/syllabus.html
-- Data Gueule. Le regard du philosophe Alain Deneault sur une société où les fils qui relient les mots à leur sens sont si emmêlés que les remettre en phase devient un « acte émancipatoire », une forme de résistance. Novlangue de bois et résistances https://www.youtube.com/channel/UCm5wThREh298TkK8hCT9HuA
-- Thinkerview- Cédric Villani : Intelligence artificielle perspectives futures https://thinkerview.com/cedric-villani-intelligence-artificielle-perspectives-futures
-- Un article intéressant sur le problème juridique et éthique de la "non explicabilité" des résultats de certains algorithmes de deep learning : https://www.maddyness.com/technologie/2017/11/13/ia-deep-learning-trou-noir-intelligence-artificielle
-- Can Apple's iPhone X Beat Facial Recognition's Bias Problem? Apple's Face ID will be used to unlock the iPhone X, but other facial-recognition programs misidentify black people. https://www.wired.com/story/can-apples-iphone-x-beat-facial-recognitions-bias-problem 
-- How white engineers built racist code – and why it's dangerous for black people. As facial recognition tools play a bigger role in fighting crime, inbuilt racial biases raise troubling questions about the systems that create them. https://www.theguardian.com/technology/2017/dec/04/racist-facial-recognition-white-coders-black-people-police
-- Using Artificial Intelligence to Augment Human Intelligence. By creating user interfaces which let us work with the representations inside machine learning models, we can give people new tools for reasoning. Un excellent article AI vs IA https://distill.pub/2017/aia
-- IRI - Institut de recherche et d’innovation du centre Pompidou. L’Institut de recherche et d’innovation anticipe les mutations de l’offre et de la consommation culturelle permises par les nouvelles technologies numériques. www.iri.centrepompidou.fr
-- Consultation publique sur l'AI lancée par la mission Villani http://www.numerama.com/politique/312649-intelligence-artificielle-la-mission-villani-vous-demande-votre-avis.html
-- Le lien direct vers la consultation AI  https://parlement-et-citoyens.fr/blog/lancement-d-une-consultation-publique-sur-l-intelligence-artificielle-par-cedric-villani-participez-jusqu-au-6-janvier
-- Le NYT a décidé de lancer une version expérimentale de son site accessible exclusivement sur Tor, un navigateur créé pour naviguer sur le réseau du même nom, où les données de navigation sont anonymes. http://www.liberation.fr/planete/2017/11/03/le-new-york-times-a-l-assaut-du-darknet_1607627 et https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482
-- Pour les ordi quantiques et la crypto qui résiste, en France: http://www.catacrypt.net
-- Le grand méchant darknet - France Inter - https://www.franceinter.fr/emissions/affaires-sensibles/affaires-sensibles-28-novembre-2017
-- IA dans wikipedia, clair et concis https://fr.wikipedia.org/wiki/Intelligence_artificielle
-- IA par l'auteur de l'excellent blog Wait But Why  https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
+- Les enjeux éthiques des algorithmes et de l'IA. La [CNIL a rendu sa copie](https://www.cnil.fr/sites/default/files/atoms/files/cnil_rapport_garder_la_main_web.pdf)
+- Excellente et incroyable démarche pédagogique de lecture des data. Un [cursus au sujet des fake news](http://callingbullshit.org/syllabus.html) 
+- Data Gueule. Le regard du philosophe Alain Deneault sur une société où les fils qui relient les mots à leur sens sont si emmêlés que les remettre en phase devient un « acte émancipatoire », une forme de résistance. [Novlangue de bois et résistances](https://www.youtube.com/channel/UCm5wThREh298TkK8hCT9HuA)
+- Thinkerview- [Cédric Villani : Intelligence artificielle perspectives futures](https://thinkerview.com/cedric-villani-intelligence-artificielle-perspectives-futures) 
+- Un article intéressant sur le problème juridique et éthique de la [non explicabilité des résultats de certains algorithmes de deep learning](https://www.maddyness.com/technologie/2017/11/13/ia-deep-learning-trou-noir-intelligence-artificielle) 
+- Can Apple's iPhone X Beat Facial Recognition's Bias Problem? Apple's Face ID will be used to unlock the iPhone X, but other [facial-recognition programs misidentify black people](https://www.wired.com/story/can-apples-iphone-x-beat-facial-recognitions-bias-problem)  
+- [How white engineers built racist code](https://www.theguardian.com/technology/2017/dec/04/racist-facial-recognition-white-coders-black-people-police)  . As facial recognition tools play a bigger role in fighting crime, inbuilt racial biases raise troubling questions about the systems that create them. 
+- Using Artificial Intelligence to Augment Human Intelligence. By [creating user interfaces which let us work with the representations inside machine learning models](https://distill.pub/2017/aia) , we can give people new tools for reasoning. Un excellent article AI vs IA 
+- IRI - [Institut de recherche et d’innovation du centre Pompidou](www.iri.centrepompidou.fr)  qui anticipe les mutations de l’offre et de la consommation culturelle permises par les nouvelles technologies numériques. 
+- Consultation publique sur l'AI lancée par la mission Villani : un lien vers [Numerama](http://www.numerama.com/politique/312649-intelligence-artificielle-la-mission-villani-vous-demande-votre-avis.html) et vers la [consultation AI proprement dite](https://parlement-et-citoyens.fr/blog/lancement-d-une-consultation-publique-sur-l-intelligence-artificielle-par-cedric-villani-participez-jusqu-au-6-janvier) 
+- Le NYT a décidé de lancer une version expérimentale de son site accessible exclusivement sur Tor, un navigateur créé pour naviguer sur le réseau du même nom, où les données de navigation sont anonymes. [Article de Libération](http://www.liberation.fr/planete/2017/11/03/le-new-york-times-a-l-assaut-du-darknet_1607627) et [article du NYT](https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482) 
+- Pour les ordi quantiques et la [crypto qui résiste](http://www.catacrypt.net) 
+- Le [grand méchant darknet - France Inter](https://www.franceinter.fr/emissions/affaires-sensibles/affaires-sensibles-28-novembre-2017) 
+- [IA dans wikipedia](https://fr.wikipedia.org/wiki/Intelligence_artificielle) , clair et concis 
+- IA par l'auteur de l'excellent blog [Wait But Why](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) 
 
 ### Cercle-neurodiversité
-- La neurodiversité vue par Lou Morgan. https://www.youtube.com/watch?v=dk_zJ6QwYQ8&app=desktop
-- Le "feed back neuronal", par exemple pour soigner des troubles d'hyperactivité. https://www.sciencesetavenir.fr/sante/cerveau-et-psy/trouble-de-l-attention-hyperactivite-une-etude-europeenne-evalue-le-neurofeedback_110745
+- La [neurodiversité vue par Lou Morgan](https://www.youtube.com/watch?v=dk_zJ6QwYQ8&app=desktop) 
+- Le [feed back neuronal](https://www.sciencesetavenir.fr/sante/cerveau-et-psy/trouble-de-l-attention-hyperactivite-une-etude-europeenne-evalue-le-neurofeedback_110745) et les troubles de l'attention, par exemple pour soigner des troubles d'hyperactivité. 
 
 ### Cercle-santé
 
 ### Cercle-spiritualité
-- Le Dalai Lama rencontre des jeunes https://www.facebook.com/dalailamarevolution
+- [Le Dalai Lama rencontre des jeunes](https://www.facebook.com/dalailamarevolution)
 
 ### Cercle-consommation-nourriture
 
