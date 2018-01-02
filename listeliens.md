@@ -52,9 +52,25 @@ _Cliquez sur le nom du domaine pour accéder aux liens et références disponibl
   Revue de uBlock Origin, un excellent outil pour surfer sans pubs intempestives
 - [Two kinds of practice](http://sethgodin.typepad.com/seths_blog/2017/11/two-kinds-of-practice.html) <span class="tag">anglais</span>  
   Un excellent article qui fait écho à la méthode Crapaud si tant est qu'il y en a une 
-
+- Open source - [Framasoft](https://degooglisons-internet.org$$$$)	
+- Open source - [Chatons: hébergement alternatif de sites web](https://chatons.org)	
+- Open source: [Mastodon: un Twitter meilleur?](https://youtu.be/5TksX-QOMno) 
 
 ### Cercle-collaboratif
+- Olivier dF [Open Innovation & recherche contre le cancer. La Paillaisse labo communautaire](https://www.digitalforallnow.com/la-paillasse-laboratoire-communautaire-open-innovation-cancer)
+- [Holacracy Amélioration de gestion d’entreprise](https://igipartners.com)
+- [Enseignement de type open university relatif à la gouvernance partagée: Colibris.](https://www.colibris-lemouvement.org/projets/luniversite-colibris/mooc-gouvernance-partagee)
+- [Université du Nous](http://universite-du-nous.org) 
+ espace d’expérimentation, de transmission et d’accompagnement afin de construire, d’animer et d’accompagner des « Nous » actifs et engagés 
+- [Soutenir les porteurs de projets de bien commun](https://onpassealacte.fr) Mathias Lahiani
+- [Comment naissent les innovations](https://www.technologyreview.com/s/603366/mathematical-model-reveals-the-patterns-of-how-innovations-arise)
+- [Bitmark](https://bitmark.com) empowers universal digital ownership so we can live free online  	
+- [Vision d'artiste](https://vimeo.com/242569435) sur nos racines et notre futur 
+- [Laboratoire d'Aix-périmentation et de Bidouille](https://labaixbidouille.com) – Bidouiller, Imaginer, Collaborer, Fabriquer, Partager 		
+- Endroits du monde avec [la plus grande biodiversité](http://www.cnrs.fr/inee/recherche/fichiers/Biodiversite_hotspots.pdf)	
+- [Intelligence Collective](http://mose.fr/collective_intelligence.pdf) sur le site de Mose
+- [Circuit court d'agriculture paysanne](http://rezopaysans.rezolocal.com)  
+- Association pour le maintien d'une [agriculture de proximité (amap) à Beaumont-les-Valence (Drôme)](http://rezopaysans.rezolocal.com/?go=monbeaujardin)
 - [Partager c'est sympa](https://www.youtube.com/user/elfuegoo/videos) 
 , la chaîne de Vincent Verzat un vidéaste activiste passionné, qui filme un avenir juste et durable pour tous. 
 - [Musaïques](www.musaiques-asso.com) 
@@ -87,7 +103,20 @@ Si les data sont effectivement des outils efficaces pour nous aider à saisir le
 ### Cercle-génération-2050
 
 ### Cercle-génie-digital
+- Jaron lanier - Who owns the future	(Livre)
+- Jean-Louis Truong - La bête inhumaine	(Livre)
+- IA [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
+- IA [Transputer](https://fr.wikipedia.org/wiki/Transputer)
+- IA [Cryptography](https://en.wikipedia.org/wiki/Post-quantum_cryptography)
+- [IA dérapages sur Twitter](https://www.lci.fr/high-tech/racisme-et-insultes-lintelligence-artificielle-de-microsoft-derape-sur-twitter-1506774.html)	 
+- [Genetic service available directly to you](https://www.23andme.com) 
+- Evaluer la [responsabilité et la transparence des systèmes algorithmiques](https://www.inria.fr/actualite/actualites-inria/transalgo)
+- Comment [traquer des déviances algorithmiques](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)	
+- Ethique numérique; les [algorithmes en question](https://hal.archives-ouvertes.fr/hal-01544701/)		
+- Self organizing [neural network model](http://www.cs.princeton.edu/courses/archive/spr08/cos598B/Readings/Fukushima1980.pdf)
 - Les enjeux éthiques des algorithmes et de l'IA. La [CNIL a rendu sa copie](https://www.cnil.fr/sites/default/files/atoms/files/cnil_rapport_garder_la_main_web.pdf)
+- [Le trinet](https://usbeketrica.com/article/internet-est-mort-vive-le-trinet) 
+sur Usbek et Rica 
 - Excellente et incroyable démarche pédagogique de lecture des data. Un [cursus au sujet des fake news](http://callingbullshit.org/syllabus.html) 
 - Data Gueule. Le regard du philosophe Alain Deneault sur une société où les fils qui relient les mots à leur sens sont si emmêlés que les remettre en phase devient un « acte émancipatoire », une forme de résistance. [Novlangue de bois et résistances](https://www.youtube.com/channel/UCm5wThREh298TkK8hCT9HuA)
 - Thinkerview- [Cédric Villani : Intelligence artificielle perspectives futures](https://thinkerview.com/cedric-villani-intelligence-artificielle-perspectives-futures) 
@@ -111,6 +140,8 @@ Si les data sont effectivement des outils efficaces pour nous aider à saisir le
 
 ### Cercle-spiritualité
 - [Le Dalai Lama rencontre des jeunes](https://www.facebook.com/dalailamarevolution)
+- [Krishnamurti "révolution des consciences"](https://m.youtube.com/watch?v=84vGAtWZyV4) sur You Tube 
+
 
 ### Cercle-consommation-nourriture
 
@@ -122,6 +153,7 @@ Si les data sont effectivement des outils efficaces pour nous aider à saisir le
 - Le [Fablab de la Drôme](http://8fablab.fr/) 
 
 ### Media
+- [Comment les « crapauds fous » veulent sauver le  monde.](https://usbeketrica.com/article/comment-les-crapauds-fous-veulent-sauver-le-monde) Interview de Thanh Nghiem sur Usbek et Rica 
 - Radio: [Thanh et les crapauds fous](http://www.rdwa.fr/Thanh-Nghiem-et-les-crapauds-fous_a7659.html)  
 - Une [jolie contribution](http://lemondedusavoir.fr/2017/12/10/crapauds-fous-survie-de-lespece-passe-changement-de-comportement) d'un crapaud fou : @bcassien 
 - @remi4435 à découvert les Crapauds Fous par un article (dont je n'ai pas le lien direct ...) dans un [petit journal de Loire Atlantique](http://journal-la-mee.fr)  
@@ -140,40 +172,4 @@ Si les data sont effectivement des outils efficaces pour nous aider à saisir le
 
 
 ### Fourre-tout (à analyser / classer)
-- [Comment les « crapauds fous » veulent sauver le  monde.](https://usbeketrica.com/article/comment-les-crapauds-fous-veulent-sauver-le-monde) Interview de Thanh Nghiem sur Usbek et Rica
-- [Krishnamurti "révolution des consciences"](https://m.youtube.com/watch?v=84vGAtWZyV4) sur You Tube 
-- Olivier dF [Open Innovation & recherche contre le cancer. La Paillaisse labo communautaire](https://www.digitalforallnow.com/la-paillasse-laboratoire-communautaire-open-innovation-cancer)
-- [Holacracy Amélioration de gestion d’entreprise](https://igipartners.com)
-- [Enseignement de type open university relatif à la gouvernance partagée: Colibris.](https://www.colibris-lemouvement.org/projets/luniversite-colibris/mooc-gouvernance-partagee)
-- [Université du Nous](http://universite-du-nous.org) 
- espace d’expérimentation, de transmission et d’accompagnement afin de construire, d’animer et d’accompagner des « Nous » actifs et engagés 
-- [Le trinet](https://usbeketrica.com/article/internet-est-mort-vive-le-trinet) 
-sur Usbek et Rica 
-- [Soutenir les porteurs de projets de bien commun](https://onpassealacte.fr) Mathias Lahiani
-- [Comment naissent les innovations](https://www.technologyreview.com/s/603366/mathematical-model-reveals-the-patterns-of-how-innovations-arise)
-- Open source - [Framasoft](https://degooglisons-internet.org$$$$)	
-- Open source - [Chatons: hébergement alternatif de sites web](https://chatons.org)	
-- Open source: [Mastodon: un Twitter meilleur?](https://youtu.be/5TksX-QOMno) 	
-- [Bitmark](https://bitmark.com) empowers universal digital ownership so we can live free online  	
-- [Vision d'artiste](https://vimeo.com/242569435) sur nos racines et notre futur 
-- [Laboratoire d'Aix-périmentation et de Bidouille](https://labaixbidouille.com) – Bidouiller, Imaginer, Collaborer, Fabriquer, Partager 		
-- Jaron lanier - Who owns the future	Livre
-- Jean-Louis Truong - La bête inhumaine	Livre
-- IA [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)	
-- IA [Transputer](https://fr.wikipedia.org/wiki/Transputer) 	
-- IA [Cryptography](https://en.wikipedia.org/wiki/Post-quantum_cryptography)	
-- [IA dérapages sur Twitter](https://www.lci.fr/high-tech/racisme-et-insultes-lintelligence-artificielle-de-microsoft-derape-sur-twitter-1506774.html)	 
-- [Genetic service available directly to you](https://www.23andme.com) 		
-- Endroits du monde avec [la plus grande biodiversité](http://www.cnrs.fr/inee/recherche/fichiers/Biodiversite_hotspots.pdf)	
-- [Intelligence Collective](http://mose.fr/collective_intelligence.pdf)
-- Evaluer la [responsabilité et la transparence des systèmes algorithmiques](https://www.inria.fr/actualite/actualites-inria/transalgo)
-- Comment [traquer des déviances algorithmiques](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)	
-- Ethique numérique; les [algorithmes en question](https://hal.archives-ouvertes.fr/hal-01544701/)		
-- Self organizing [neural network model](http://www.cs.princeton.edu/courses/archive/spr08/cos598B/Readings/Fukushima1980.pdf)	
-- [Circuit court d'agriculture paysanne](http://rezopaysans.rezolocal.com)  
-- Association pour le maintien d'une [agriculture de proximité (amap) à Beaumont-les-Valence (Drôme)](http://rezopaysans.rezolocal.com/?go=monbeaujardin)
 
-
-
-
-__
