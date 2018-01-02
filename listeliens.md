@@ -2,7 +2,7 @@
 ## Dernière mise à jour 
 17 12 2017
 
-## Sources principales
+## Sources principales - Les sites des Crapauds Fous
 - [Site de référence](http://crapaud-fou.org)
 - [Espace de discussion](https://coa.crapaud-fou.org)
 - [Forum à idées-feedback et questions-réponses](https://idees.crapaud-fou.org)
@@ -140,38 +140,38 @@ Si les data sont effectivement des outils efficaces pour nous aider à saisir le
 
 
 ### Fourre-tout (à analyser / classer)
-- Comment les « crapauds fous » veulent sauver le  monde. Interview Thanh Nghiem 
-https://usbeketrica.com/article/comment-les-crapauds-fous-veulent-sauver-le-monde
-- Krishnamurti "révolution des consciences" (extraits Zeitgeist Addendum) https://m.youtube.com/watch?v=84vGAtWZyV4 
-- Olivier dF Open Innovation & recherche contre le cancer. La Pallaisse labo communautaire https://www.digitalforallnow.com/la-paillasse-laboratoire-communautaire-open-innovation-cancer
-- Excellence in Holacracy Amélioration de gestion d’entreprise https://igipartners.com
-- Enseignement de type open university relatif à la gouvernance partagée https://www.colibris-lemouvement.org/projets/luniversite-colibris/mooc-gouvernance-partagee
-- Université du Nous: espace d’expérimentation, de transmission et d’accompagnement afin de construire, d’animer et d’accompagner des « Nous » actifs et engagés http://universite-du-nous.org
-- Groupe de crapauds fous qui a pour but de faciliter les initiatives de transition en Drôme-Ardèche dans les domaines de la transition écologique, de la solidarité et citoyenneté, du numérique, etc https://www.loomio.org/g/mWnxpriY/crapauds-fous-07-26
-- Le trinet https://usbeketrica.com/article/internet-est-mort-vive-le-trinet
-- Soutenir les porteurs de projets de bien commun Mathias Lahiani https://onpassealacte.fr.	
-- IA comment naissent les innovations?  https://www.technologyreview.com/s/603366/mathematical-model-reveals-the-patterns-of-how-innovations-arise
-- Open source - Framasoft   https://degooglisons-internet.org$$$$	
-- Open source - hébergement alternatif de sites web https://chatons.org	
-- Open source: Mastodon: un Twitter meilleur? https://youtu.be/5TksX-QOMno 	
-- Bitmark empowers universal digital ownership so we can live free online https://bitmark.com 	
-- Vision d'artiste sur nos racines et notre futur https://vimeo.com/242569435
-- Laboratoire d'Aix-périmentation et de Bidouille – Bidouiller, Imaginer, Collaborer, Fabriquer, Partager https://labaixbidouille.com		
-- Jaron lanier - Who owns the future	Bouquin 
-- Jean-Louis Truong - La bête inhumaine	Bouquin 
-- IA Genetic Algorithm https://en.wikipedia.org/wiki/Genetic_algorithm	
-- IA Transputer https://fr.wikipedia.org/wiki/Transputer 	
-- IA Cryptography  https://en.wikipedia.org/wiki/Post-quantum_cryptography	
-- IA dérapages sur Twitter https://www.lci.fr/high-tech/racisme-et-insultes-lintelligence-artificielle-de-microsoft-derape-sur-twitter-1506774.html	 
-- genetic service available directly to you https://www.23andme.com 		
-- Endroits du monde avec la plus grande biodiversité	http://www.cnrs.fr/inee/recherche/fichiers/Biodiversite_hotspots.pdf  Collaboratif	
-- Intelligence Collective	  http://mose.fr/collective_intelligence.pdf  Collaboratif
-- Evaluer la responsabilité et la transparence des systèmes algorithmiques https://www.inria.fr/actualite/actualites-inria/transalgo
-- Comment traquer des déviances algorithmiques https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing	
-- Ethique numérique; les algorithmes en question https://hal.archives-ouvertes.fr/hal-01544701/		
-- Self organizing neural network model http://www.cs.princeton.edu/courses/archive/spr08/cos598B/Readings/Fukushima1980.pdf	
-- Circuit court d'agriculture paysanne 	http://rezopaysans.rezolocal.com  
-- Association pour le maintien d'une agriculture de proximité (amap) à Beaumont-les-Valence (Drôme)http://rezopaysans.rezolocal.com/?go=monbeaujardin
+- [Comment les « crapauds fous » veulent sauver le  monde.](https://usbeketrica.com/article/comment-les-crapauds-fous-veulent-sauver-le-monde) Interview de Thanh Nghiem sur Usbek et Rica
+- [Krishnamurti "révolution des consciences"](https://m.youtube.com/watch?v=84vGAtWZyV4) sur You Tube 
+- Olivier dF [Open Innovation & recherche contre le cancer. La Paillaisse labo communautaire](https://www.digitalforallnow.com/la-paillasse-laboratoire-communautaire-open-innovation-cancer)
+- [Holacracy Amélioration de gestion d’entreprise](https://igipartners.com)
+- [Enseignement de type open university relatif à la gouvernance partagée: Colibris.](https://www.colibris-lemouvement.org/projets/luniversite-colibris/mooc-gouvernance-partagee)
+- [Université du Nous](http://universite-du-nous.org) 
+ espace d’expérimentation, de transmission et d’accompagnement afin de construire, d’animer et d’accompagner des « Nous » actifs et engagés 
+- [Le trinet](https://usbeketrica.com/article/internet-est-mort-vive-le-trinet) 
+sur Usbek et Rica 
+- [Soutenir les porteurs de projets de bien commun](https://onpassealacte.fr) Mathias Lahiani
+- [Comment naissent les innovations](https://www.technologyreview.com/s/603366/mathematical-model-reveals-the-patterns-of-how-innovations-arise)
+- Open source - [Framasoft](https://degooglisons-internet.org$$$$)	
+- Open source - [Chatons: hébergement alternatif de sites web](https://chatons.org)	
+- Open source: [Mastodon: un Twitter meilleur?](https://youtu.be/5TksX-QOMno) 	
+- [Bitmark](https://bitmark.com) empowers universal digital ownership so we can live free online  	
+- [Vision d'artiste](https://vimeo.com/242569435) sur nos racines et notre futur 
+- [Laboratoire d'Aix-périmentation et de Bidouille](https://labaixbidouille.com) – Bidouiller, Imaginer, Collaborer, Fabriquer, Partager 		
+- Jaron lanier - Who owns the future	Livre
+- Jean-Louis Truong - La bête inhumaine	Livre
+- IA [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)	
+- IA [Transputer](https://fr.wikipedia.org/wiki/Transputer) 	
+- IA [Cryptography](https://en.wikipedia.org/wiki/Post-quantum_cryptography)	
+- [IA dérapages sur Twitter](https://www.lci.fr/high-tech/racisme-et-insultes-lintelligence-artificielle-de-microsoft-derape-sur-twitter-1506774.html)	 
+- [Genetic service available directly to you](https://www.23andme.com) 		
+- Endroits du monde avec [la plus grande biodiversité](http://www.cnrs.fr/inee/recherche/fichiers/Biodiversite_hotspots.pdf)	
+- [Intelligence Collective](http://mose.fr/collective_intelligence.pdf)
+- Evaluer la [responsabilité et la transparence des systèmes algorithmiques](https://www.inria.fr/actualite/actualites-inria/transalgo)
+- Comment [traquer des déviances algorithmiques](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)	
+- Ethique numérique; les [algorithmes en question](https://hal.archives-ouvertes.fr/hal-01544701/)		
+- Self organizing [neural network model](http://www.cs.princeton.edu/courses/archive/spr08/cos598B/Readings/Fukushima1980.pdf)	
+- [Circuit court d'agriculture paysanne](http://rezopaysans.rezolocal.com)  
+- Association pour le maintien d'une [agriculture de proximité (amap) à Beaumont-les-Valence (Drôme)](http://rezopaysans.rezolocal.com/?go=monbeaujardin)
 
 
 

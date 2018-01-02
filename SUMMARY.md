@@ -8,6 +8,6 @@
 * [Compte-rendus des réunions](reunions.md)
   * [Réunion du 17.11.2017](cr_reunions/20171117reunion.md)
 * [Crapauds dans les médias](presse.md)
-* [Liste de Liens](liens.md)
+* [Page à supprimer](liens.md)
 * [Liste de Liens simple](listeliens.md)
 
