@@ -1,6 +1,10 @@
 # Mares et cohortes en devenir
+En désordre et pas complet, juste histoire de donner à voir
 
-En désordre et pas complet, juste histoire de donner à voir, voici une liste des endroits où Thanh est passée pour coasser
+## Nouveautés depuis début 2018
+http://effervescience.fr/les-crapauds-fous-ces-maitres-du-jeu/
+
+## Voici une liste des endroits où Thanh est passée pour coasser - MAJ fin 2017
 
 - Aix Laboratoire d'Aixpérimentation et de Bidouille, un super Fablab qui met l'accent sur le social, l'éducation, l'empowerment (Guy Sinnig a eu de hautes fonctions dans l'Educ Nat, ça aide). Tournage d'un reportage pour France 3 TV Provence dans les locaux le 8/12
 - Drôme : conférence + ateliers et dédicace sur 2 jours, avec la CCI le 6/12 et les acteurs de la Biovallée le 7/12. Référents : JC Mersdorf (Rhodanim), Mickael Berrebi (Let’s co), Christian Parant – groupe de travail formé suite aux conférences de Thanh à Valence en 2016
